@@ -2,6 +2,9 @@ package sudoku.game;
 
 import java.util.Arrays;
 
+/**
+ * @author Ne4upara
+ */
 public class Main {
 
     public static void main(String[] args) {
